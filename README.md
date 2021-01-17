@@ -1,8 +1,8 @@
 # seanathan
 
-##Required libraries:
+# Requirements:
 * Python 3.7
-* discord.py 1.6.0
-* youtube_dl
-* discord.ext.menus
-* [aiosqlite](https://github.com/omnilib/aiosqlite)
+
+<code> pip install -r requirements.txt </code>
+
+discord.ext.menus (Refer to https://github.com/Rapptz/discord-ext-menus)
